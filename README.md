@@ -11,14 +11,13 @@ Adding Chinese translated Support docs: a request for offline documents of eggPl
  
  eggPlant Functional:
 
-
  ## 
 
  Section 1 - Section 2 - Section 3
 
+ ![ScreenShot](http://eggtest.me/tp/images/Chinese-docs-screenie.png)
+
  ##
 
-```
- - Download all eggPlant Functional documents in Chinese in a zipped folder [here](https://github.com/TestPlant/support-documents-chinese/archive/master.zip)
-```
+   Download all of the eggPlant Functional documents in Chinese in a zipped folder [here](https://github.com/TestPlant/support-documents-chinese/archive/master.zip)
 
